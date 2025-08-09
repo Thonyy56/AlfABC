@@ -42,6 +42,12 @@ Disponível para:
 
 ---
 
+## 🌐 Site oficial
+
+👉 [https://thonyy56.github.io/AlfABC-Page/](https://thonyy56.github.io/AlfABC-Page/)
+
+---
+
 ## 🔄 Continuação no Suno
 
 O **AlfABC** foi encerrado para focar totalmente no **[Suno](https://github.com/Thonyy56/Suno)** — um aplicativo mais moderno, completo e acessível, que mantém a mesma missão e vai além, oferecendo novas funções, suporte a mais plataformas e melhorias de acessibilidade.
@@ -56,7 +62,7 @@ Se você gostou do AlfABC, recomendamos fortemente que conheça o **Suno**:
 | Repositório | Descrição |
 |-------------|-----------|
 | [**AlfABC (App)**](https://github.com/Thonyy56/AlfABC) | Código-fonte do aplicativo |
-| [**Suno (App)**](https://github.com/Thonyy56/Suno) | Projeto sucessor, mais moderno e completo |
+| [**AlfABC-Page (Site)**](https://github.com/Thonyy56/AlfABC-Page) | Código do site oficial |
 
 ---
 
